@@ -1,0 +1,76 @@
+#total_fare_value = 0
+#create a list for the names of cities
+#city_names = []
+#setting a variable for the city column in the data frame
+#citys = merge_df.city
+
+#iterate over city column
+#for places in citys:
+    #if value not in the list city_names
+    #if places not in city_names:
+        #add to the city_names list
+        #city_names.append(places)
+#print(city_names)
+#number_of_cities = len(city_names)
+#sum_fares = merge_df.fare.sum()
+#average_fare_per_city = sum_fares / number_of_cities
+#number_of_fares = merge_df.fare.count()
+#number_of_fares
+#city_names.sort()
+#print(city_names)
+
+
+#setting a variable for the tyoe column in the data frame
+#city_types = []
+#city_type = merge_df.type
+#iterate over the type column
+#for types in city_type:
+    #if value not in the list city_types
+    #if types not in city_types:
+        #city_types.append(types)
+#city_types.sort()
+#print(city_types)
+
+#for type in merge_df:
+    #city_types = merge_df[type]
+    #print(city_types.values)
+
+
+#drop duplicates from this df
+#sorted_cites_df.drop_duplicates("city", keep=first, inplace=True)
+
+#take this sorted value and put the column values to a list
+
+
+
+#setting a variable for the tyoe column in the data frame
+#city_types = []
+#types = city_data_df.type
+#iterate over the type column
+#for types in city_type:
+    #if value not in the list city_types
+    #if types not in city_types:
+        #city_types.append(types)
+#city_types.sort()
+#print(city_types)
+
+#take original data frame and sort the city column alphabetically- set to variable  
+
+
+#total_fares = city_data.groupby(["City Types"]).sum()[]
+#total_rides
+#total_drivers = city_data.Total_drivers_per_city.sum()
+#total_fares
+#total_rides
+
+#grouped_df = city_data.groupby(["City_Types"])
+#print(grouped_df)
+#grouped_df.head(20)
+
+
+#total_rides_by_city_type
+#total_drivers_by_city_type
+
+#grouped_df[grouped_df['City_Types'].str.match("Rural")]
+           
+

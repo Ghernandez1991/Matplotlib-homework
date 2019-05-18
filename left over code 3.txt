@@ -1,0 +1,47 @@
+
+#urban_drivers = 2405.0
+#rural_drivers = 78
+#suburban_drivers = 
+#average_fare_u
+#average_fare_s
+#average_fare_r
+#total_number_r_rides
+#total_number_s_rides
+#total_number_u_rides
+
+
+
+
+
+#average_fare_per_ucity = city_data.groupby(['City_Types', 'city' ]).agg({
+    #'Average_Fare_per_city':"mean"})
+
+#average_fare_per_ucity.index.unique(level='City_Types')
+
+
+
+
+#average_fare_per_ucity.index = average_fare_per_ucity.index.get_level_values('City_Types')
+#average_fare_per_ucity.head(120)
+
+#average_fare_per_ucity.iloc[average_fare_per_ucity.index.get_level_values('City_Types') ==4]
+
+
+#total_rides_per_city = merge_df.groupby(["city"]).count()['ride_id'].rename("Total rides per city")
+#total_drivers_per_city = merge_df.groupby(["city"]).mean()['driver_count'].rename("Total drivers per city")
+#total_fare_per_city =  merge_df.groupby(["city"]).sum()['fare'].rename("Total Fare per city")
+
+
+#city_data
+
+#df1.groupby(['City_Types', 'Average_Fare_per_city'])['Total_drivers_per_city'].count()
+#df1.groupby(['City_Types', 'Average_Fare_per_city']).sum()
+
+
+#city_data.groupby(['City_Types']).agg({
+   # 'Average_Fare_per_city':"mean",
+   # 'Total_rides_per_city':sum,
+   # 'Total_drivers_per_city':sum
+   # }
+#)
+

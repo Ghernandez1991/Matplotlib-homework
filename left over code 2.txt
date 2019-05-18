@@ -1,0 +1,38 @@
+average_rural_fares_per_city
+total_rural_rides_per_city
+total_rural_drivers_per_city
+
+
+
+
+
+average_urban_fares_per_city
+total_urban_rides_per_city
+total_urban_drivers_per_city
+
+
+average_Suburban_fares_per_city
+total_Suburban_rides_per_city
+total_Suburban_drivers_per_city
+
+
+
+
+
+Chart 1
+Rural
+x=total_rural_rides_per_city
+y= average_rural_fares_per_city
+s=total_rural_drivers_per_city
+
+charter 2
+suburban
+x=total_Suburban_rides_per_city
+y= average_Suburban_fares_per_city
+s=total_Suburban_drivers_per_city
+
+chart 3
+
+x=total_urban_rides_per_city
+y= average_urban_fares_per_city
+s=total_urban_drivers_per_city

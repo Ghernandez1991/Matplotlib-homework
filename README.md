@@ -1,5 +1,7 @@
 #  The Power of Plots --Pyber
 
+![Alt text](image/1.png?raw=true "Optional Title")
+
 
 The ride sharing bonanza continues! Seeing the success of notable players like Uber and Lyft, you've decided to join a fledgling ride sharing company of your own. In your latest capacity, you'll be acting as Chief Data Strategist for the company. In this role, you'll be expected to offer data-backed guidance on new opportunities for market differentiation.
 
@@ -18,8 +20,13 @@ In addition, you will be expected to produce the following three pie charts:
 
 
 % of Total Fares by City Type
+![Alt text](image/1.png?raw=true "Optional Title")
+
 % of Total Rides by City Type
+![Alt text](image/2.png?raw=true "Optional Title")
+
 % of Total Drivers by City Type
+![Alt text](image/3.png?raw=true "Optional Title")
 
 
 As final considerations:
